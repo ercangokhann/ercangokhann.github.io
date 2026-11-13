@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ercangokhann.github.io/sitemap.xml
